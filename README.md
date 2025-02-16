@@ -4,7 +4,9 @@
 
 ### Get data
 Biome description: [NASA earth observatory](https://earthobservatory.nasa.gov/biome)
+
 Vegetation index data: [NASA NDVI](https://neo.gsfc.nasa.gov/view.php?datasetId=MOD_NDVI_M)
+
 Average land temperature: [NASA LSTD](https://neo.gsfc.nasa.gov/view.php?datasetId=MOD_LSTD_CLIM_M)
 
 ### Density classification
