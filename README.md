@@ -48,9 +48,9 @@ Add Field Names and data types
 
 Create biome animation with geometry nodes
 
-### Step 3: Sonic PI soundtrack
+## Step 3: Sonic PI soundtrack
 Create background music with [Sonic PI script](biom_soundtrack.rb).
 
-### Step 4: Finalize in Davinci Resolve
+## Step 4: Finalize in Davinci Resolve
 Create final video with Davinci Resolve.
 
